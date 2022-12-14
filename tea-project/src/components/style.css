@@ -1,0 +1,8 @@
+li {
+    list-style: none;
+}
+
+.teadiv {
+    border: solid black 2px;
+    width: 600px;
+}
